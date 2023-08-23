@@ -1,1 +1,1 @@
-# nana-game-ver1
+# pig-game
